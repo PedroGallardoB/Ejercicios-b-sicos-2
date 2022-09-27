@@ -12,6 +12,9 @@ public class Ejercicio9 {
 
 		System.out.println("Conversor a pesetas, introduzca cantidad de euros.");	
 		double n1 = sc.nextDouble();
+		
+		//Operamos convirtiendo a pesetas
+		
 		double n2 = n1*166.386 ;
 	
 		//Mostramos los datos

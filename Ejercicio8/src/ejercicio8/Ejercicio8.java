@@ -8,7 +8,7 @@ public class Ejercicio8 {
 
  Scanner sc = new Scanner (System.in);
 		 
-		 //Pedimos los datos
+		 //Pedimos los datos y los escaneamos
 
 		System.out.println("Introduzca su nombre");	
 		String nombre = sc.nextLine();
